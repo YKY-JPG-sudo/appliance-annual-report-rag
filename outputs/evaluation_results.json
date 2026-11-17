@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:29:39.359695+00:00",
+  "generated_at": "2026-11-17T15:30:50.925896+00:00",
   "questions": 10,
   "correct": 9,
   "results": [
@@ -27,7 +27,7 @@
         "439.45",
         "533.46"
       ],
-      "elapsed_ms": 227,
+      "elapsed_ms": 225,
       "relevant_pages_recalled": [],
       "relevant_pages_cited": [
         {
@@ -107,7 +107,7 @@
         "-9.89%",
         "+57.93%"
       ],
-      "elapsed_ms": 14,
+      "elapsed_ms": 13,
       "relevant_pages_recalled": [],
       "relevant_pages_cited": [
         {
@@ -398,7 +398,7 @@
         "825,127,010.61",
         "-48.83%"
       ],
-      "elapsed_ms": 27,
+      "elapsed_ms": 25,
       "relevant_pages_recalled": [
         {
           "company": "九阳股份",
@@ -546,7 +546,7 @@
         "31.42%",
         "31.56%"
       ],
-      "elapsed_ms": 26,
+      "elapsed_ms": 23,
       "relevant_pages_recalled": [
         {
           "company": "老板电器",
@@ -698,7 +698,7 @@
         "195.42%",
         "支付采购款及营销广告费减少"
       ],
-      "elapsed_ms": 33,
+      "elapsed_ms": 35,
       "relevant_pages_recalled": [
         {
           "company": "飞科电器",
@@ -858,7 +858,7 @@
       "mode": "structured_metric",
       "correct": false,
       "keyword_hits": [],
-      "elapsed_ms": 218,
+      "elapsed_ms": 221,
       "relevant_pages_recalled": [
         {
           "company": "苏泊尔",
@@ -1166,7 +1166,7 @@
         "TCL科技（1,840.63",
         "格力电器（290.03"
       ],
-      "elapsed_ms": 151,
+      "elapsed_ms": 154,
       "relevant_pages_recalled": [
         {
           "company": "TCL科技",
@@ -1498,7 +1498,7 @@
         "81.64%",
         "57.93%"
       ],
-      "elapsed_ms": 179,
+      "elapsed_ms": 190,
       "relevant_pages_recalled": [],
       "relevant_pages_cited": [
         {
