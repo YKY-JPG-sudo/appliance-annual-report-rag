@@ -1,0 +1,15 @@
+[
+  {"code": "000333", "name": "美的集团", "org_id": "9900005965", "segment": "综合家电"},
+  {"code": "000651", "name": "格力电器", "org_id": "gssz0000651", "segment": "空调"},
+  {"code": "600690", "name": "海尔智家", "org_id": "gssh0600690", "segment": "综合家电"},
+  {"code": "002032", "name": "苏泊尔", "org_id": "gssz0002032", "segment": "厨房小家电"},
+  {"code": "002242", "name": "九阳股份", "org_id": "9900004732", "segment": "厨房小家电"},
+  {"code": "002508", "name": "老板电器", "org_id": "9900015938", "segment": "厨电"},
+  {"code": "002035", "name": "华帝股份", "org_id": "gssz0002035", "segment": "厨电"},
+  {"code": "002959", "name": "小熊电器", "org_id": "9900037093", "segment": "创意小家电"},
+  {"code": "600060", "name": "海信视像", "org_id": "gssh0600060", "segment": "显示与彩电"},
+  {"code": "000921", "name": "海信家电", "org_id": "gssz0000921", "segment": "综合家电"},
+  {"code": "000100", "name": "TCL科技", "org_id": "gssz0000100", "segment": "显示面板"},
+  {"code": "603868", "name": "飞科电器", "org_id": "9900026668", "segment": "个护小家电"}
+]
+

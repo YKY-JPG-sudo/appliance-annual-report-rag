@@ -1,0 +1,96 @@
+[
+  {
+    "id": "Q01",
+    "type": "单公司财务指标",
+    "question": "美的集团2025年营业收入、归母净利润和经营现金流分别是多少？",
+    "expected_keywords": ["4,564.52", "439.45", "533.46"],
+    "relevant_pages": [{"company": "美的集团", "page": 9}],
+    "review_note": ""
+  },
+  {
+    "id": "Q02",
+    "type": "单公司财务变化",
+    "question": "格力电器2025年营业收入同比变化和经营现金流同比变化是多少？",
+    "expected_keywords": ["1,704.47", "-9.89%", "+57.93%"],
+    "relevant_pages": [{"company": "格力电器", "page": 7}],
+    "review_note": ""
+  },
+  {
+    "id": "Q03",
+    "type": "单公司多指标",
+    "question": "海尔智家2025年营业收入、归母净利润和经营现金流分别是多少？",
+    "expected_keywords": ["3,023.47", "195.53", "260.03"],
+    "relevant_pages": [{"company": "海尔智家", "page": 12}],
+    "review_note": ""
+  },
+  {
+    "id": "Q04",
+    "type": "单公司多指标",
+    "question": "TCL科技2025年营业收入和归母净利润分别是多少？",
+    "expected_keywords": ["1,840.63", "45.17"],
+    "relevant_pages": [{"company": "TCL科技", "page": 9}],
+    "review_note": ""
+  },
+  {
+    "id": "Q05",
+    "type": "表格数值",
+    "question": "九阳股份2025年境外销售收入及同比变化是多少？",
+    "expected_keywords": ["825,127,010.61", "-48.83%"],
+    "relevant_pages": [{"company": "九阳股份", "page": 13}],
+    "review_note": ""
+  },
+  {
+    "id": "Q06",
+    "type": "表格数值",
+    "question": "老板电器2025年吸油烟机线下零售额市占率是多少？",
+    "expected_keywords": ["31.42%", "31.56%"],
+    "relevant_pages": [{"company": "老板电器", "page": 12}],
+    "review_note": ""
+  },
+  {
+    "id": "Q07",
+    "type": "数值加原因",
+    "question": "飞科电器2025年经营现金流同比增长多少，主要原因是什么？",
+    "expected_keywords": ["195.42%", "支付采购款及营销广告费减少"],
+    "relevant_pages": [
+      {"company": "飞科电器", "page": 6},
+      {"company": "飞科电器", "page": 14}
+    ],
+    "review_note": ""
+  },
+  {
+    "id": "Q08",
+    "type": "跨公司复合筛选",
+    "question": "12家公司中，哪些公司2025年营业收入增长但归母净利润下降？",
+    "expected_keywords": ["苏泊尔", "+1.54%", "-6.58%"],
+    "relevant_pages": [{"company": "苏泊尔", "page": 7}],
+    "review_note": "预期失败：问题同时包含“收入增长”和“利润下降”两个筛选条件，当前问答层把两个指标分别做 Top-3 排名，没有执行交集，因此没有给出唯一符合条件的苏泊尔。"
+  },
+  {
+    "id": "Q09",
+    "type": "跨公司全景",
+    "question": "12家公司中，2025年营业收入和归母净利润最高的分别是谁？",
+    "expected_keywords": ["美的集团（4,564.52", "海尔智家（3,023.47", "TCL科技（1,840.63", "格力电器（290.03"],
+    "relevant_pages": [
+      {"company": "美的集团", "page": 9},
+      {"company": "海尔智家", "page": 12},
+      {"company": "TCL科技", "page": 9},
+      {"company": "格力电器", "page": 7}
+    ],
+    "review_note": ""
+  },
+  {
+    "id": "Q10",
+    "type": "跨公司筛选",
+    "question": "哪些公司经营现金流同比增长率超过50%？",
+    "expected_keywords": ["九阳股份", "飞科电器", "小熊电器", "格力电器", "302.69%", "195.42%", "81.64%", "57.93%"],
+    "relevant_pages": [
+      {"company": "九阳股份", "page": 7},
+      {"company": "飞科电器", "page": 6},
+      {"company": "小熊电器", "page": 7},
+      {"company": "格力电器", "page": 7}
+    ],
+    "review_note": ""
+  }
+]
+

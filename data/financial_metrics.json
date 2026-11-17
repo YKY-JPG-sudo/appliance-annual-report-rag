@@ -1,0 +1,135 @@
+[
+  {
+    "company": "美的集团",
+    "code": "000333",
+    "revenue_yi": 4564.51731,
+    "net_profit_yi": 439.45411,
+    "operating_cash_flow_yi": 533.4593,
+    "revenue_growth_pct": 12.11,
+    "net_profit_growth_pct": 14.03,
+    "operating_cash_flow_growth_pct": -11.84,
+    "page": 9
+  },
+  {
+    "company": "格力电器",
+    "code": "000651",
+    "revenue_yi": 1704.470585,
+    "net_profit_yi": 290.031034,
+    "operating_cash_flow_yi": 463.831148,
+    "revenue_growth_pct": -9.89,
+    "net_profit_growth_pct": -9.89,
+    "operating_cash_flow_growth_pct": 57.93,
+    "page": 7
+  },
+  {
+    "company": "海尔智家",
+    "code": "600690",
+    "revenue_yi": 3023.467839,
+    "net_profit_yi": 195.527982,
+    "operating_cash_flow_yi": 260.02942,
+    "revenue_growth_pct": 5.71,
+    "net_profit_growth_pct": 4.39,
+    "operating_cash_flow_growth_pct": -1.2,
+    "page": 12
+  },
+  {
+    "company": "苏泊尔",
+    "code": "002032",
+    "revenue_yi": 227.717535,
+    "net_profit_yi": 20.967202,
+    "operating_cash_flow_yi": 26.457813,
+    "revenue_growth_pct": 1.54,
+    "net_profit_growth_pct": -6.58,
+    "operating_cash_flow_growth_pct": 2.41,
+    "page": 7
+  },
+  {
+    "company": "九阳股份",
+    "code": "002242",
+    "revenue_yi": 82.097631,
+    "net_profit_yi": 11.764579,
+    "operating_cash_flow_yi": 7.15009,
+    "revenue_growth_pct": -7.23,
+    "net_profit_growth_pct": -3.85,
+    "operating_cash_flow_growth_pct": 302.69,
+    "page": 7
+  },
+  {
+    "company": "老板电器",
+    "code": "002508",
+    "revenue_yi": 101.160694,
+    "net_profit_yi": 12.558798,
+    "operating_cash_flow_yi": 15.978267,
+    "revenue_growth_pct": -9.78,
+    "net_profit_growth_pct": -20.38,
+    "operating_cash_flow_growth_pct": -3.76,
+    "page": 7
+  },
+  {
+    "company": "华帝股份",
+    "code": "002035",
+    "revenue_yi": 56.4804,
+    "net_profit_yi": 3.009857,
+    "operating_cash_flow_yi": 5.358953,
+    "revenue_growth_pct": -11.36,
+    "net_profit_growth_pct": -37.9,
+    "operating_cash_flow_growth_pct": -15.26,
+    "page": 7
+  },
+  {
+    "company": "小熊电器",
+    "code": "002959",
+    "revenue_yi": 52.300796,
+    "net_profit_yi": 3.925409,
+    "operating_cash_flow_yi": 4.163876,
+    "revenue_growth_pct": 9.92,
+    "net_profit_growth_pct": 36.4,
+    "operating_cash_flow_growth_pct": 81.64,
+    "page": 7
+  },
+  {
+    "company": "海信视像",
+    "code": "600060",
+    "revenue_yi": 576.792249,
+    "net_profit_yi": 24.540114,
+    "operating_cash_flow_yi": 45.832162,
+    "revenue_growth_pct": -1.45,
+    "net_profit_growth_pct": 9.24,
+    "operating_cash_flow_growth_pct": 27.43,
+    "page": 8
+  },
+  {
+    "company": "海信家电",
+    "code": "000921",
+    "revenue_yi": 879.284859,
+    "net_profit_yi": 31.865739,
+    "operating_cash_flow_yi": 57.960292,
+    "revenue_growth_pct": -5.19,
+    "net_profit_growth_pct": -4.82,
+    "operating_cash_flow_growth_pct": 12.94,
+    "page": 11
+  },
+  {
+    "company": "TCL科技",
+    "code": "000100",
+    "revenue_yi": 1840.633906,
+    "net_profit_yi": 45.167834,
+    "operating_cash_flow_yi": 440.216986,
+    "revenue_growth_pct": 11.67,
+    "net_profit_growth_pct": 188.78,
+    "operating_cash_flow_growth_pct": 49.09,
+    "page": 9
+  },
+  {
+    "company": "飞科电器",
+    "code": "603868",
+    "revenue_yi": 38.610807,
+    "net_profit_yi": 5.120847,
+    "operating_cash_flow_yi": 8.751981,
+    "revenue_growth_pct": -6.9,
+    "net_profit_growth_pct": 11.84,
+    "operating_cash_flow_growth_pct": 195.42,
+    "page": 6
+  }
+]
+

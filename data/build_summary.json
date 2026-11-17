@@ -1,0 +1,9 @@
+{
+  "companies": 12,
+  "pages": 2501,
+  "tables": 3900,
+  "chunks": 6409,
+  "embedding_model": "BAAI/bge-small-zh-v1.5",
+  "chunk_chars": 900,
+  "chunk_overlap": 120
+}
